@@ -1,3 +1,7 @@
 Test case 1
 Id 1
 Login form
+
+Test 2
+Id
+STR
